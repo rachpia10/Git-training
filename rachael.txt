@@ -6,3 +6,6 @@ Welcome to git
 Hello world
 
 ":)"
+:(
+    :/
+)
