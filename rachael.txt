@@ -4,6 +4,6 @@ I am a tech grad
 Today is Wednesday 
 Welcome to git 
 Hello world
-
-Hello again
+Tomorrow is Friday
+Hello again 
 
