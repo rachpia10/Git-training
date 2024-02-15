@@ -5,5 +5,5 @@ Today is Wednesday
 Welcome to git 
 Hello world
 Tomorrow is Friday
-Hello again 
+Today is thursday 
 
