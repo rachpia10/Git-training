@@ -5,3 +5,4 @@ Today is Wednesday
 Tomorrow is Thursday
 Welcome to git <3
 Today is Thursday!
+Tomorrow is Friday!
