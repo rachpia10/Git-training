@@ -6,4 +6,5 @@ Welcome to git
 Hello world
 Change made
 Hello again
+Today is thursday 
 
