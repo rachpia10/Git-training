@@ -4,6 +4,5 @@ I am a tech grad
 Today is Wednesday 
 Welcome to git 
 Hello world
-This is the change Hayley made
-Hello again
+This is the change Hayley madeToday is thursday 
 
